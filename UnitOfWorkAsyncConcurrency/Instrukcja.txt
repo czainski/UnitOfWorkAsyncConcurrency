@@ -8,6 +8,8 @@
 6. Controller for models
 7. new Context w Controller
 8. Właściwy Routing w Startup.cs
+==========================
+
  
 
 

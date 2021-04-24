@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edu\\Desktop\\UnitOfWorkAsync&Concurrency\\UnitOfWorkAsync.csproj": {}
+    "C:\\Users\\czain\\Desktop\\UnitOfWorkAsynConcurrency\\UnitOfWorkAsyncConcurrency\\UnitOfWorkAsync.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edu\\Desktop\\UnitOfWorkAsync&Concurrency\\UnitOfWorkAsync.csproj": {
+    "C:\\Users\\czain\\Desktop\\UnitOfWorkAsynConcurrency\\UnitOfWorkAsyncConcurrency\\UnitOfWorkAsync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edu\\Desktop\\UnitOfWorkAsync&Concurrency\\UnitOfWorkAsync.csproj",
+        "projectUniqueName": "C:\\Users\\czain\\Desktop\\UnitOfWorkAsynConcurrency\\UnitOfWorkAsyncConcurrency\\UnitOfWorkAsync.csproj",
         "projectName": "UnitOfWorkAsync",
-        "projectPath": "C:\\Users\\edu\\Desktop\\UnitOfWorkAsync&Concurrency\\UnitOfWorkAsync.csproj",
-        "packagesPath": "C:\\Users\\edu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edu\\Desktop\\UnitOfWorkAsync&Concurrency\\obj\\",
+        "projectPath": "C:\\Users\\czain\\Desktop\\UnitOfWorkAsynConcurrency\\UnitOfWorkAsyncConcurrency\\UnitOfWorkAsync.csproj",
+        "packagesPath": "C:\\Users\\czain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\czain\\Desktop\\UnitOfWorkAsynConcurrency\\UnitOfWorkAsyncConcurrency\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\czain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNet.Mvc": {
               "target": "Package",
@@ -85,7 +87,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
