@@ -1,0 +1,15 @@
+﻿0. Zainstalować bazę i podłączyć logowani z: Windows Authorisation
+1. Microsoft.EntityFrameworkCore 
+2. Context
+3. Model
+4. Wskazanie bazy w Context
+5. add-migration bcTables
+   update-database –verbose
+6. Controller for models
+7. new Context w Controller
+8. Właściwy Routing w Startup.cs
+ 
+
+
+
+
